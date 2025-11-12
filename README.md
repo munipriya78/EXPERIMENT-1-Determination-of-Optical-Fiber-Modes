@@ -67,8 +67,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ## Marks SplitUp:
 
-![WhatsApp Image 2025-11-12 at 21 02 59_e22f2ca9](https://github.com/user-attachments/assets/32a1734c-d57d-4170-9f2e-d6a77959a8f8)
-
+![WhatsApp Image 2025-11-12 at 21 04 25_e33ed806](https://github.com/user-attachments/assets/3059ee23-cdbe-4a5d-a52d-add2e48b71b0)
 
 ## Result :
      
