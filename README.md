@@ -60,4 +60,16 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
-## Result
+
+![WhatsApp Image 2025-11-12 at 21 00 57_47110362](https://github.com/user-attachments/assets/9d4671ef-5a40-48a0-9ef9-4b7816169757)
+
+![WhatsApp Image 2025-11-12 at 21 02 59_e22f2ca9](https://github.com/user-attachments/assets/90914a47-3901-463c-af8c-4032cd6fa7da)
+
+## Marks SplitUp:
+
+![WhatsApp Image 2025-11-12 at 21 02 59_e22f2ca9](https://github.com/user-attachments/assets/32a1734c-d57d-4170-9f2e-d6a77959a8f8)
+
+
+## Result :
+     
+Thus Simulation of Optical Communication is simulate and observed Successfully.
